@@ -1,0 +1,1 @@
+The idea of ​​the project is the program to measure the outcomes of subjects and students, so that it measures the outcomes and percentages of subjects and students in an automatic and direct way, so that it serves the development and quality management.
